@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+
+# Lab output and everything for the write-up stay local.
+results/
+results-pass*/
+post/
